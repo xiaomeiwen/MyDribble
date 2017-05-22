@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyDribble</string>
+    <string name="shot_image">Shot image</string>
+    <string name="drawer_menu_home">Home</string>
+    <string name="drawer_menu_buckets">Buckets</string>
+    <string name="drawer_menu_likes">Likes</string>
+    <string name="open_drawer">open drawer</string>
+    <string name="close_drawer">close drawer</string>
+</resources>
